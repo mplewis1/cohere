@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import altair as alt
 import textwrap as tr
-import matplotlib.pyplot as plt
 import umap
 
 api_key = 'cUkUMhISEr8QsUhZ8uaVMxZtdL3UJrlaESCyNtHR'
